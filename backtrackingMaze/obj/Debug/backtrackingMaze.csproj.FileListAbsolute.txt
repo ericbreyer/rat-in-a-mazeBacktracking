@@ -1,0 +1,6 @@
+/Users/ebreyer/Documents/GitHub/backtrackingMaze/backtrackingMaze/bin/Debug/backtrackingMaze.exe
+/Users/ebreyer/Documents/GitHub/backtrackingMaze/backtrackingMaze/bin/Debug/backtrackingMaze.pdb
+/Users/ebreyer/Documents/GitHub/backtrackingMaze/backtrackingMaze/obj/Debug/backtrackingMaze.csprojAssemblyReference.cache
+/Users/ebreyer/Documents/GitHub/backtrackingMaze/backtrackingMaze/obj/Debug/backtrackingMaze.csproj.CoreCompileInputs.cache
+/Users/ebreyer/Documents/GitHub/backtrackingMaze/backtrackingMaze/obj/Debug/backtrackingMaze.exe
+/Users/ebreyer/Documents/GitHub/backtrackingMaze/backtrackingMaze/obj/Debug/backtrackingMaze.pdb

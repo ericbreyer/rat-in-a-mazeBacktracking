@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E6E9F937-60F7-4E1C-BBE2-27F0B6B4FAFA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="backtrackingMaze/Program.cs">
+    <Files>
+      <File FileName="backtrackingMaze/Program.cs" Line="7" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="backtrackingMaze" expanded="True">
+            <Node name="backtrackingMaze" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.backtrackingMaze FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
