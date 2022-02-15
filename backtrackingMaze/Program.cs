@@ -35,7 +35,6 @@ namespace backtrackingMaze {
                 userInput();
             }
             else {
-
                 preDetermined();
             }
 
@@ -164,7 +163,7 @@ namespace backtrackingMaze {
                     }
                 }
 
-                Console.WriteLine("Build Maze");
+                Console.WriteLine("---Build Maze---");
                 Console.WriteLine("Enter: Toggle wall at cursor");
                 Console.WriteLine("Arrow Keys: Move Cursor");
                 Console.WriteLine("Space: Exit");
@@ -244,7 +243,7 @@ namespace backtrackingMaze {
 
             }
 
-            //simply looad alues for a predetermined maze
+            //simply looad values for a predetermined maze
             void preDetermined() {
                 maze = new int[,] { {1, 1, 1, 1, 1, 0, 1, 1, 1},
                                     {1, 0, 0, 0, 1, 0, 0, 0, 1},
